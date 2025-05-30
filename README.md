@@ -1,4 +1,24 @@
-# Calculator
-A simple calculator program built in Python on Replit that performs basic arithmetic operations like addition, subtraction, multiplication, and division
+# 🧮 Calculator
 
+A simple calculator program built in Python on Replit. This tool performs basic arithmetic operations: addition, subtraction, multiplication, and division.
 
+## 🚀 Features
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- User-friendly terminal interface
+
+## 🛠️ Technologies Used
+
+- Python
+- Replit (for coding and testing)
+
+## 💻 How to Run
+
+1. Clone the repository (if running locally):
+   ```bash
+   git clone https://github.com/your-username/calculator.git
+   cd calculator
+   python calculator.py
