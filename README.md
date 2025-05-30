@@ -18,7 +18,4 @@ A simple calculator program built in Python on Replit. This tool performs basic 
 ## 💻 How to Run
 
 1. Clone the repository (if running locally):
-   ```bash
-   git clone https://github.com/pruthvikarikatti/calculator.git
-   cd calculator
-   python calculator.py
+https://github.com/pruthvikarikatti/calculator.git
